@@ -6,7 +6,7 @@ FLAME GPU (Flexible Large-scale Agent Modelling Environment for Graphics Process
 
 FLAME GPU 2 is complete re-write of the existing library offering greater flexibility, an improved interface for agent scripting and better research software engineering, with CUDA/C++ and Python interfaces.
 
-**FLAME GPU 2 is currently in an pre-release (alpha) state**. For more information, see the [FLAMEGPU2 Readme](https://github.com/FLAMEGPU/FLAMEGPU2#readme).
+**FLAME GPU 2 is currently in an pre-release (release-candidate) state**. For more information, see the [FLAMEGPU2 Readme](https://github.com/FLAMEGPU/FLAMEGPU2#readme).
 
 + [FLAMEGPU/FLAMEGPU2](https://github.com/FLAMEGPU/FLAMEGPU2)
 + [Documentation and Userguide](https://docs.flamegpu.com)
